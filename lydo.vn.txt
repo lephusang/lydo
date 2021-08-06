@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Lý Do</title>
-	<atom:link href="https://lydo.vn/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lydo.vn</link>
+	<atom:link href="https://raw.githubusercontent.com/lephusang/lydo/main/lydo.vn.txt" rel="self" type="application/rss+xml" />
+	<link>https://raw.githubusercontent.com/lephusang/lydo/main/lydo.vn.txt</link>
 	<description>Mọi câu chuyện bắt đầu đều có lý do của nó</description>
 	<lastBuildDate>Sat, 24 Jul 2021 00:02:11 +0000</lastBuildDate>
 	<language>vi</language>
